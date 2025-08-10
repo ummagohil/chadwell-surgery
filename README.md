@@ -1,7 +1,5 @@
 # 🏥 Chadwell Health Surgery
 
-A modern approach to a website.
-
 ### 📋Aims of App
 
 - Users are able to view the website
